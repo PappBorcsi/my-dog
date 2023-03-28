@@ -1,0 +1,47 @@
+*{
+    font-size:medium;
+}
+/*miii*/
+.column{
+    vertical-align: center;
+    vertical-align:top;
+    justify-content:center;
+    align-items: center;
+}
+
+.column{
+    float: left;
+    width: 40%;
+}
+
+.column img{
+    height: 500%;
+    width: 50%;
+    margin: 10%;
+
+}
+
+.datas{
+    
+  text-align: left;
+}
+.comp{
+    background-color: #0a514d;
+    display: inline-block;
+    border-radius: 25px;
+    padding: 3px;
+    margin: 0 auto;
+    height: 80%;
+    width: 40%;
+    
+   
+}
+.button{
+    margin: auto;
+    color: #0a514d ;
+    font-weight:  bold;
+    
+}
+
+
+/*<div className="bg-light-green dib br3 pa3 ma2 grow">*/

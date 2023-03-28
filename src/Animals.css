@@ -1,0 +1,66 @@
+/*
+.Animals{
+    width: 60%;
+    margin: 20px auto;
+    border: 1px solid pink;
+    background-color: aqua;
+    box-shadow:  0 2px 3px #ccc;
+    padding: 20px;
+    text-align:  center;
+}
+
+  }*/
+  .box{
+    margin-top: 0px;
+    text-align: center;
+  }
+  .search{
+    width: 40rem;
+    height: 2rem;
+    text-align: center;
+    border-radius: 20px;
+    margin: 2rem;
+
+  }
+
+  .Animals{
+    background-color: aqua;
+  }
+ 
+
+  .animalsPicture{
+    width: 20%;
+    border: 3px solid #0a514d;
+  }
+
+  .p{
+    text-align: center;
+    font-size: 15px ;
+
+  }
+
+  .allatokContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .allatokContainer111111111111111111111111111111111 img:hover {
+    cursor: pointer;
+    height: 40%;
+    width: auto;
+  }
+
+  .allatikonok2{
+    
+    /*display:ruby;*/
+    float:none;
+    flex-wrap: wrap;
+    justify-content: stretch;
+
+
+  }
+
+  .Animal{
+    align-content: center;
+  }
